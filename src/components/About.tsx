@@ -39,7 +39,7 @@ const About: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
           <div className="md:w-1/3">
             <img
-              src="/photo/my-profile2.jpg"
+              src="/photo/swayammy-profile2.jpg"
               alt="Profile"
               className="rounded-lg shadow-lg"
             />
