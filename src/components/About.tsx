@@ -39,7 +39,7 @@ const About: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
           <div className="md:w-1/3">
             <img
-              src="/photo/swayammy-profile2.jpg"
+              src="/photo/swayam-profile.jpeg"
               alt="Profile"
               className="rounded-lg shadow-lg"
             />
@@ -49,7 +49,7 @@ const About: React.FC = () => {
             <h3 className="subHeading mb-4">Robotics Engineer</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm description">
               <ul className="space-y-4">
-                <InfoItem label="Birthday" value="&nbsp;04 April 2001" />
+                <InfoItem label="Birthday" value="&nbsp;15 September 2000" />
                 <InfoItem label="City" value="&nbsp;Kathmandu, Nepal" />
                 <InfoItem
                   label="Email"

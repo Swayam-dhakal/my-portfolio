@@ -35,8 +35,8 @@ const Navbar: React.FC = () => {
         link: "#teachingExperience",
       },
       { name: "Projects", icon: <BiBot />, link: "#projects" },
-      { name: "Essays", icon: <BiBookContent />, link: "/essays" },
-      { name: "CV", icon: <BiBookContent />, link: "/SakarPathak_CV.pdf" },
+      // { name: "Essays", icon: <BiBookContent />, link: "/essays" },
+      { name: "CV", icon: <BiBookContent />, link: "/Swayam_Dhakal_CV.pdf" },
     ],
     []
   );
@@ -115,7 +115,7 @@ const Navbar: React.FC = () => {
         {/* Profile */}
         <div className="mb-4">
           <img
-            src="/photo/my-profile2.jpg"
+            src="/photo/swayammy-profile2.jpg"
             alt="Profile"
             className="w-30 h-30 rounded-full border-8 border-white/15"
           />
@@ -128,14 +128,14 @@ const Navbar: React.FC = () => {
         {/* Social Icons */}
         <div className="flex gap-4 mb-6">
           <a
-            href="mailto:sakar.pathak111@gmail.com"
+            href="mailto:swayamdhakal.com"
             className="hover:text-blue-400"
           >
             <BiEnvelope size={20} />
           </a>
 
           <a
-            href="https://github.com/sakar111"
+            href="https://github.com/swayam-dhakal"
             target="_blank"
             className="hover:text-gray-400"
             rel="noopener noreferrer" // Good practice for target="_blank"
@@ -143,7 +143,7 @@ const Navbar: React.FC = () => {
             <FaGithub size={20} />
           </a>
           <a
-            href="https://linkedin.com/in/sakar-pathak"
+            href="https://linkedin.com/in/swayam-dhakal"
             target="_blank"
             className="hover:text-blue-600"
             rel="noopener noreferrer" // Good practice for target="_blank"

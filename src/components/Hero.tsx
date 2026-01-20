@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
     <section id="home" className="relative lg:h-screen overflow-hidden">
       {/* Desktop Video Background */}
       <video
-        src="/photo/hero-bg.mp4"
+        src="/photo/hero-video.mp4"
         autoPlay
         loop
         muted
@@ -40,12 +40,12 @@ const Hero: React.FC = () => {
             <p className="text-[26px] font-Roboto text-white">
               I love{" "}
               <span className="border-b-2 border-[#149DDD] animate-bounceInline inline-block">
-                Robotics
+                Engineering
               </span>
               <br />
               and{" "}
               <span className="border-b-2 border-[#149DDD] animate-bounceInline inline-block delay-200">
-                creating videos
+                story telling
               </span>{" "}
               about building robots.
             </p>
@@ -82,18 +82,18 @@ const Hero: React.FC = () => {
           <p className="text-lg sm:text-xl font-Roboto text-black">
             I love{" "}
             <span className="border-b-2 border-[#149DDD] animate-bounceInline inline-block">
-              Robotics
+              Engineering
             </span>
             <br />
             and{" "}
             <span className="border-b-2 border-[#149DDD] animate-bounceInline inline-block delay-200">
-              creating videos
+              story-telling
             </span>{" "}
             about building robots.
           </p>
         </div>
         <video
-          src="/photo/hero-bg.mp4"
+          src="/photo/hero-video.mp4"
           autoPlay
           loop
           muted
@@ -108,7 +108,7 @@ const Hero: React.FC = () => {
           <div className="relative w-full max-w-3xl">
             <video
               ref={modalVideoRef}
-              src="/photo/hero-bg.mp4"
+              src="/photo/hero-video.mp4"
               controls
               autoPlay
               className="w-full h-auto rounded"

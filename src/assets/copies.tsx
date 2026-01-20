@@ -62,42 +62,35 @@ export const youtubeVideos = [
 
 export const jobExperience = [
   {
-    title: "Co-Founder & Lead Engineer",
+    title: "Co-Founder & CMO",
     organization: "Axar Space Pvt. Ltd.",
     date: "Feb 2024 - Present",
     place: "Kathmandu, Nepal",
     points: [
       "Developed complete mechanical, electrical, and firmware stack for programmable robotics platform, enabling students to build multiple projects from a single kit.",
-      "Led development of embedded hardware and software across multiple projects.",
+      "Development of embedded hardware and software across multiple projects.",
       "Produced technical video content demonstrating robotics concepts through hands-on projects.",
+      "Wrote scripts for the long formatted videos on the channel, along with captivating storytelling.",
     ],
   },
   {
-    title: "Electronics Engineer",
-    organization: "Sandbox Software Pvt. Ltd.",
-    date: "Jan 2024 - Apr 2024",
+    title: "STEM Educator",
+    organization: "Makit Labs",
+    date: "April 2025 - Present",
     place: "Pokhara, Nepal",
     points: [
-      "Led development of 1000 HID devices (keyboard and mouse) using microcontrollers and ASICs.",
-    ],
-  },
-  {
-    title: "Robotics Engineer",
-    organization: "North Star Developer’s Village",
-    date: "Aug 2024- Oct 2024",
-    place: "Kathmandu, Nepal",
-    points: [
-      "Led completion of Person Following project for an Autonomous Robot, achieving 75% accuracy.",
+      "Taught over 50 students individually about robotics and engineering in saturday STEM classes.",
+      "Organized 5+ workshops across tech institues in Nepal for undergrad and high school science students."
     ],
   },
 ];
 
 export const teachingExperience = [
   {
-    title: "Lecturer, Discrete Mathematics & Digital Logic",
-    organization: "Kantipur College of Management and Information Technology",
-    date: "May 2024- Sep 2025",
-    place: "Kathmandu, Nepal",
+    title: "Teaching Assistant: Object Oreinted Programming, Electronic Device and Circuits, Advanced Programming: Python",
+    organization: "National College of Engineering (NCIT)",
+    date: "Jun 2024- Dec 2024",
+    place: "Lalitpur, Nepal",
     points: [],
   },
 ];
