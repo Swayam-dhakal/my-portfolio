@@ -53,9 +53,9 @@ const About: React.FC = () => {
                 <InfoItem label="City" value="&nbsp;Kathmandu, Nepal" />
                 <InfoItem
                   label="Email"
-                  value="&nbsp;sakar.pathak111@gmail.com"
+                  value="&nbsp;swayamdhakal@gmail.com"
                 />
-                <InfoItem label="Phone" value="&nbsp;+977 9841671676" />
+                <InfoItem label="Phone" value="&nbsp;+977 9865102956" />
                 {/* Captcha Checkbox */}
                 <li className="mt-4">
                   <div className="flex items-center justify-between w-full max-w-xs p-2 border rounded-md border-gray-300 bg-gray-50 shadow-sm">
