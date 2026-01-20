@@ -122,7 +122,7 @@ const Navbar: React.FC = () => {
         </div>
 
         <h1 className="font-Raleway text-white text-2xl font-bold mb-4">
-          Sakar Pathak
+          Swayam  Dhakal
         </h1>
 
         {/* Social Icons */}

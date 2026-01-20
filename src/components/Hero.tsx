@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
           />
           <div className="relative z-10 p-8">
             <h1 className="text-[64px] font-bold font-Raleway text-white mb-4 animate-fadeInDown">
-              Sakar Pathak
+              Swayam  Dhakal
             </h1>
             <p className="text-[26px] font-Roboto text-white">
               I love{" "}
@@ -77,7 +77,7 @@ const Hero: React.FC = () => {
       <div className="lg:hidden flex flex-col items-center px-6 py-8">
         <div className="pt-10 mb-10 text-center">
           <h1 className="text-4xl sm:text-5xl font-bold font-Raleway text-black mb-4">
-            Sakar Pathak
+            Swayam  Dhakal
           </h1>
           <p className="text-lg sm:text-xl font-Roboto text-black">
             I love{" "}
